@@ -62,3 +62,7 @@ Here are some ideas to get you started:
 <br>
 
 <!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Murathansolmaz1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Murathansolmaz1&label=Profile%20views&color=0e75b6&style=flat" alt="Murathansolmaz1" /> </p>
+
