@@ -51,3 +51,8 @@ Here are some ideas to get you started:
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Murathansolmaz1&show_icons=true&theme=dark"> --> <!--Daha Sonra tablo ile gösterim için--> 
+
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murathansolmaz1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
