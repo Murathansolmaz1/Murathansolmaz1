@@ -47,4 +47,4 @@ If you want to contact me, you can reach the addresses below with peace of mind;
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murathansolmaz1)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Murathansolmaz1&show_icons=true&theme=dark">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Murathansolmaz1&show_icons=true&theme=dark"> --> <!--Daha Sonra tablo ile gösterim için--> 
