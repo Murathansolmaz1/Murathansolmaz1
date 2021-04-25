@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/murathan-solmaz-837049129/
+[linkedin]:https://www.linkedin.com/in/murathan-solmaz-837049129/
