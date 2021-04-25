@@ -41,7 +41,10 @@ Here are some ideas to get you started:
 
 ## For Contact
 
-If you want to contact me, you can reach the addresses below with peace of mind;
+# If you want to contact me, you can reach the addresses below with peace of mind : 
+
+<br>
+
 [![Mail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:murathansolmaz555@gmail.com)](mailto:murathansolmaz555@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murathan-solmaz-837049129/)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murathansolmaz1)
