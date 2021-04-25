@@ -39,3 +39,6 @@ Here are some ideas to get you started:
 <br />
 
 [linkedin]:https://www.linkedin.com/in/murathan-solmaz-837049129/
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=onurmorcagok&show_icons=true&theme=dark">
