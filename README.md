@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 [linkedin]:https://www.linkedin.com/in/murathan-solmaz-837049129/
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=onurmorcagok&show_icons=true&theme=dark">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=Murathansolmaz1&show_icons=true&theme=dark">
