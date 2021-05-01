@@ -70,3 +70,18 @@ Here are some ideas to get you started:
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Murathansolmaz1&label=Profile%20views&color=0e75b6&style=flat" alt="Murathansolmaz1" /> </p>
+
+<a href="https://github.com/Murathansolmaz1"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Murathansolmaz1&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
+<a href="https://github.com/Murathansolmaz1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murathansolmaz1&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
+
+
+<!--
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+-->
